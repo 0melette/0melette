@@ -10,4 +10,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
- [✨my website ✨](https://0melette.github.io)
+# Links
+
+ ## [✨my website ✨](https://0melette.github.io)
+ 
+ ## [my chickens🐓🐓🐓](egg-tracker.vercel.app)
