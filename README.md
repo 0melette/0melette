@@ -14,4 +14,4 @@
 
  ## [✨my website ✨](https://0melette.github.io)
  
- ## [my chickens🐓🐓🐓](egg-tracker.vercel.app)
+ ## [my chickens🐓🐓🐓](https://egg-tracker.vercel.app/)
